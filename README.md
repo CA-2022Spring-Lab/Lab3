@@ -61,7 +61,7 @@ DEBUG 可以使用在线的 RISC-V 模拟器
 
 连线参考图如下
 
-![Single Cycle RISC-V Core.PNG](README.assets/Single Cycle RISC-V Core.PNG)
+![Single Cycle RISC-V Core.PNG](./README.assets/Single Cycle RISC-V Core.PNG)
 
 ## 评分标准
 
